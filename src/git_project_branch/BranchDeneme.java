@@ -3,8 +3,7 @@ package git_project_branch;
 public class BranchDeneme {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	System.out.println("Saat 16:28 - master branch ilk commit");
 	}
 
 }
